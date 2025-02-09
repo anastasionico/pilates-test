@@ -1,0 +1,760 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary focus of Pilates breathing?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 1,
+      "category": "Breathing",
+      "tags": ["breathing", "fundamentals"],
+      "options": {
+        "correct": "Promotes core engagement and oxygenates muscles",
+        "wrong_1": "Expels toxins from the body",
+        "wrong_2": "Increases cardiovascular endurance"
+      },
+      "hint": "It should be coordinated with movement.",
+      "explanation": "Breathing helps engage the core muscles and ensures oxygen is supplied to muscles during exercise.",
+      "reference": "STOTT Pilates Essentials Manual, p. 12"
+    },
+    {
+      "question": "Which of the following cues helps maintain neutral pelvis position?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 2,
+      "category": "Pelvic Placement",
+      "tags": ["pelvic", "alignment"],
+      "options": {
+        "correct": "Engage your core and imagine tilting your pelvis gently forward",
+        "wrong_1": "Tuck your pelvis under completely",
+        "wrong_2": "Arch your back slightly to maintain neutral alignment"
+      },
+      "hint": "Think of a small movement for pelvic tilt.",
+      "explanation": "A neutral pelvis ensures proper spinal alignment and reduces strain.",
+      "reference": "STOTT Pilates Essentials, p. 40"
+    },
+    {
+      "question": "Which muscle group is primarily engaged in the 'Spine Stretch Forward' exercise?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 2,
+      "category": "Core Muscles",
+      "tags": ["core", "flexibility"],
+      "options": {
+        "correct": "Erector spinae and hamstrings",
+        "wrong_1": "Rectus abdominis and obliques",
+        "wrong_2": "Latissimus dorsi and biceps"
+      },
+      "hint": "Think about the muscles along your spine and legs.",
+      "explanation": "The Spine Stretch Forward engages the spine's muscles for flexibility and the hamstrings for the forward fold.",
+      "reference": "STOTT Pilates Manual, p. 89"
+    },
+    {
+      "question": "What role does the diaphragm play in Pilates breathing?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 1,
+      "category": "Core Muscles",
+      "tags": ["breathing", "diaphragm"],
+      "options": {
+        "correct": "It contracts to help control the inhale and supports core engagement",
+        "wrong_1": "It helps stabilize the shoulders during exercises",
+        "wrong_2": "It aids in spinal rotation"
+      },
+      "hint": "The diaphragm works closely with your pelvic floor muscles.",
+      "explanation": "Breathing effectively with diaphragm contraction enhances core engagement, providing stability.",
+      "reference": "STOTT Pilates Anatomy Guide, p. 47"
+    },
+    {
+      "question": "In the 'Roll-Up' exercise, what is the primary action of the abdominal muscles?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Core Strength",
+      "tags": ["core", "matwork"],
+      "options": {
+        "correct": "Flexion of the spine",
+        "wrong_1": "Extension of the spine",
+        "wrong_2": "Rotation of the torso"
+      },
+      "hint": "Focus on how the spine moves one vertebra at a time.",
+      "explanation": "The Roll-Up requires the abdominal muscles to flex the spine and control the movement as you articulate through each vertebra.",
+      "reference": "STOTT Pilates Matwork Manual, p. 56"
+    },
+    {
+      "question": "Which muscle group is primarily targeted during the 'Single Leg Circles' exercise?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Hip Mobility",
+      "tags": ["hip", "flexibility", "matwork"],
+      "options": {
+        "correct": "Hip flexors and adductors",
+        "wrong_1": "Hamstrings and glutes",
+        "wrong_2": "Latissimus dorsi and triceps"
+      },
+      "hint": "Think about the movement coming from your leg and hip joint.",
+      "explanation": "The Single Leg Circles focus on the hip joint and surrounding muscles for mobility and control.",
+      "reference": "STOTT Pilates Matwork Essentials, p. 112"
+    },
+    {
+      "question": "What is the focus during the 'Footwork' series on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 1,
+      "category": "Lower Body Strength",
+      "tags": ["footwork", "lower body", "reformer"],
+      "options": {
+        "correct": "Strengthening the quadriceps and glutes while stabilizing the pelvis",
+        "wrong_1": "Increasing spinal flexibility",
+        "wrong_2": "Improving shoulder mobility"
+      },
+      "hint": "The feet should be placed on the footbar, and focus on pressing evenly.",
+      "explanation": "Footwork engages the lower body muscles while focusing on pelvic stability and controlled movement.",
+      "reference": "STOTT Pilates Reformer Manual, p. 35"
+    },
+    {
+      "question": "What is the primary purpose of the 'Knee Stretch' exercise on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 2,
+      "category": "Core Stability",
+      "tags": ["core", "stability", "reformer"],
+      "options": {
+        "correct": "To strengthen the core while maintaining pelvic stability",
+        "wrong_1": "To improve ankle flexibility",
+        "wrong_2": "To stretch the hamstrings"
+      },
+      "hint": "Think of engaging your core as you move the carriage back and forth.",
+      "explanation": "The Knee Stretch builds core strength, stabilizing the pelvis while maintaining controlled movement.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 45"
+    },
+    {
+      "question": "Which piece of equipment is used in the 'Trapeze Table' exercise for spinal decompression?",
+      "topic": "Equipment-Based Training",
+      "difficulty": 2,
+      "category": "Spine & Posture",
+      "tags": ["spine", "posture", "cadillac"],
+      "options": {
+        "correct": "The trapeze springs and push-through bar",
+        "wrong_1": "The reformer carriage and footbar",
+        "wrong_2": "The barrel for side stretches"
+      },
+      "hint": "This piece allows for hanging and gentle traction on the spine.",
+      "explanation": "The Trapeze Table offers resistance and support to help decompress and stretch the spine.",
+      "reference": "STOTT Pilates Cadillac/Trapeze Table Manual, p. 20"
+    },
+    {
+      "question": "Which exercise on the Ladder Barrel helps with improving spinal mobility?",
+      "topic": "Equipment-Based Training",
+      "difficulty": 2,
+      "category": "Spinal Mobility",
+      "tags": ["mobility", "spine", "barrel"],
+      "options": {
+        "correct": "The 'Spine Stretch' over the barrel",
+        "wrong_1": "The 'Standing Leg Stretch'",
+        "wrong_2": "The 'Side Stretch'"
+      },
+      "hint": "This involves a forward fold over the barrel to articulate the spine.",
+      "explanation": "The Spine Stretch over the barrel targets spinal mobility, improving flexibility and articulation.",
+      "reference": "STOTT Pilates Barrel Exercises Manual, p. 76"
+    },
+    {
+      "question": "Which modification should be made for clients with lower back pain during the 'Hundred' exercise?",
+      "topic": "Special Populations & Injuries",
+      "difficulty": 3,
+      "category": "Injury Modifications",
+      "tags": ["back pain", "modifications"],
+      "options": {
+        "correct": "Keep the knees bent and feet flat on the mat",
+        "wrong_1": "Lift both legs straight into the air",
+        "wrong_2": "Keep the head and neck lifted throughout"
+      },
+      "hint": "Focus on stabilizing the spine and using the core.",
+      "explanation": "Bending the knees and keeping the feet flat helps prevent excessive strain on the lower back.",
+      "reference": "STOTT Pilates Rehabilitation Manual, p. 91"
+    },
+    {
+      "question": "For a pregnant client, which modification is recommended for the 'Roll-Over' exercise?",
+      "topic": "Special Populations & Injuries",
+      "difficulty": 3,
+      "category": "Prenatal Pilates",
+      "tags": ["pregnancy", "roll-over", "modifications"],
+      "options": {
+        "correct": "Perform the exercise with legs bent or use a wedge for support",
+        "wrong_1": "Perform it with legs straight and lower back on the mat",
+        "wrong_2": "Avoid the exercise entirely"
+      },
+      "hint": "Avoid any strain on the abdomen during this exercise.",
+      "explanation": "Pregnant clients should avoid rolling their back onto the floor and should perform with modifications.",
+      "reference": "STOTT Pilates Prenatal Training Guide, p. 68"
+    },
+    {
+      "question": "Which of the following movements should be avoided for clients with osteoporosis?",
+      "topic": "Contraindications & Safety",
+      "difficulty": 3,
+      "category": "Safety Guidelines",
+      "tags": ["osteoporosis", "contraindications"],
+      "options": {
+        "correct": "Spinal flexion",
+        "wrong_1": "Lateral flexion",
+        "wrong_2": "Shoulder abduction"
+      },
+      "hint": "Think about movements that could stress the spine.",
+      "explanation": "Spinal flexion can increase the risk of fractures in clients with osteoporosis.",
+      "reference": "STOTT Pilates Osteoporosis Safety Manual, p. 32"
+    },
+    {
+      "question": "For a client with a herniated disc, which exercise should be modified or avoided?",
+      "topic": "Contraindications & Safety",
+      "difficulty": 3,
+      "category": "Spinal Safety",
+      "tags": ["herniated disc", "safety"],
+      "options": {
+        "correct": "Full spinal flexion exercises like the 'Roll-Up'",
+        "wrong_1": "Leg stretches and flexibility exercises",
+        "wrong_2": "Shoulder exercises with light weights"
+      },
+      "hint": "Avoid putting pressure on the disc area.",
+      "explanation": "Flexion exercises may exacerbate symptoms of a herniated disc.",
+      "reference": "STOTT Pilates Injury Modifications Manual, p. 58"
+    },
+    {
+      "question": "What is the primary goal of Pilates breathing?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 1,
+      "category": "Breathing",
+      "tags": ["breathing", "fundamentals"],
+      "options": {
+        "correct": "To assist in activating the core muscles",
+        "wrong_1": "To increase muscle mass",
+        "wrong_2": "To reduce muscle fatigue"
+      },
+      "hint": "It supports your posture and spine during exercises.",
+      "explanation": "Breathing patterns are essential for engaging the core and stabilizing the spine.",
+      "reference": "STOTT Pilates Essentials Manual, p. 12"
+    },
+    {
+      "question": "Which of these cues is most helpful for neutral pelvis alignment?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 1,
+      "category": "Pelvic Placement",
+      "tags": ["alignment", "pelvic"],
+      "options": {
+        "correct": "Imagine a bowl of water on your pelvis, and try not to spill it",
+        "wrong_1": "Tuck your pelvis as much as you can",
+        "wrong_2": "Squeeze your glutes tightly while performing the movement"
+      },
+      "hint": "Neutral alignment should maintain a natural curve in the spine.",
+      "explanation": "Neutral pelvis alignment helps in maintaining the integrity of the spine and preventing strain.",
+      "reference": "STOTT Pilates Essentials, p. 40"
+    },
+    {
+      "question": "Which part of the body does the 'Saw' exercise primarily target?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 2,
+      "category": "Core Strength",
+      "tags": ["core", "flexibility"],
+      "options": {
+        "correct": "The obliques and spinal muscles",
+        "wrong_1": "The quadriceps",
+        "wrong_2": "The gluteal muscles"
+      },
+      "hint": "Think about rotating your torso during this exercise.",
+      "explanation": "The Saw helps strengthen the obliques and increases spinal rotation flexibility.",
+      "reference": "STOTT Pilates Anatomy Guide, p. 89"
+    },
+    {
+      "question": "In the 'Plank' exercise, what muscle group is most activated?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 1,
+      "category": "Core Muscles",
+      "tags": ["core", "stability"],
+      "options": {
+        "correct": "The rectus abdominis and transverse abdominis",
+        "wrong_1": "The biceps and triceps",
+        "wrong_2": "The gluteal muscles and hamstrings"
+      },
+      "hint": "Engage your core to maintain a straight line from head to heels.",
+      "explanation": "Plank requires full core activation to stabilize the body and maintain proper posture.",
+      "reference": "STOTT Pilates Manual, p. 34"
+    },
+    {
+      "question": "Which of the following describes the goal of the 'Side Kick' exercise?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Hip Mobility",
+      "tags": ["hip", "flexibility", "strength"],
+      "options": {
+        "correct": "To increase the strength and mobility of the hip abductors",
+        "wrong_1": "To stretch the hamstrings",
+        "wrong_2": "To strengthen the core muscles"
+      },
+      "hint": "Focus on the movement of the leg and its control.",
+      "explanation": "Side Kick improves hip stability and flexibility, particularly in the hip abductors.",
+      "reference": "STOTT Pilates Matwork Essentials, p. 101"
+    },
+    {
+      "question": "What is the purpose of the 'Double Leg Stretch' exercise?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Core Strength",
+      "tags": ["core", "strength", "endurance"],
+      "options": {
+        "correct": "To challenge the core and improve coordination",
+        "wrong_1": "To stretch the legs and hamstrings",
+        "wrong_2": "To strengthen the arms and shoulders"
+      },
+      "hint": "Your core must stabilize while your limbs move in and out.",
+      "explanation": "The Double Leg Stretch improves core strength and coordination while emphasizing core stability.",
+      "reference": "STOTT Pilates Matwork Manual, p. 76"
+    },
+    {
+      "question": "Which muscle group is primarily activated during 'Knee Stretches' on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 2,
+      "category": "Core Stability",
+      "tags": ["core", "stability", "strength"],
+      "options": {
+        "correct": "The abdominals and hip flexors",
+        "wrong_1": "The hamstrings and glutes",
+        "wrong_2": "The shoulders and arms"
+      },
+      "hint": "Focus on drawing the belly button in while moving.",
+      "explanation": "The Knee Stretches focus on the core and hip flexors to maintain pelvic stability and core strength.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 45"
+    },
+    {
+      "question": "What is the primary benefit of the 'Long Box' series on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 2,
+      "category": "Spinal Flexion",
+      "tags": ["spine", "flexion", "upper body"],
+      "options": {
+        "correct": "It strengthens the upper back and improves spinal flexibility",
+        "wrong_1": "It targets the lower body muscles",
+        "wrong_2": "It enhances hip mobility"
+      },
+      "hint": "This series helps with control and articulation of the spine.",
+      "explanation": "The Long Box series helps strengthen the upper back and mobilize the spine through flexion.",
+      "reference": "STOTT Pilates Reformer Manual, p. 66"
+    },
+    {
+      "question": "Which exercise on the Reformer focuses on hip extension and strengthening the glutes?",
+      "topic": "Equipment-Based Training",
+      "difficulty": 2,
+      "category": "Lower Body Strength",
+      "tags": ["hip extension", "glutes", "reformer"],
+      "options": {
+        "correct": "Footwork with single leg press",
+        "wrong_1": "Leg circles",
+        "wrong_2": "Leg press with both legs"
+      },
+      "hint": "The movement focuses on extending the leg behind you while stabilizing the torso.",
+      "explanation": "The Footwork series with single-leg press targets the glutes and hamstrings while emphasizing pelvic control.",
+      "reference": "STOTT Pilates Reformer Manual, p. 54"
+    },
+    {
+      "question": "What equipment is used during the 'Belly Pull Down' exercise?",
+      "topic": "Equipment-Based Training",
+      "difficulty": 3,
+      "category": "Core Strength",
+      "tags": ["core", "resistance", "reformer"],
+      "options": {
+        "correct": "The Reformer carriage and the resistance band",
+        "wrong_1": "The Reformer footbar",
+        "wrong_2": "The Cadillac trapeze springs"
+      },
+      "hint": "It targets core engagement with resistance to stabilize the torso.",
+      "explanation": "The Belly Pull Down utilizes the Reformer to challenge the core muscles and enhance stability.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 81"
+    },
+    {
+      "question": "What is a recommended modification for clients with scoliosis?",
+      "topic": "Special Populations & Injuries",
+      "difficulty": 3,
+      "category": "Spinal Alignment",
+      "tags": ["scoliosis", "spinal", "modifications"],
+      "options": {
+        "correct": "Use props for added support and emphasize spinal alignment",
+        "wrong_1": "Avoid any exercises that target the spine",
+        "wrong_2": "Focus solely on lower body strength exercises"
+      },
+      "hint": "Support the curve and aim for even engagement across the body.",
+      "explanation": "For clients with scoliosis, exercises should be modified to support the spine and balance the body.",
+      "reference": "STOTT Pilates Rehabilitation Guide, p. 63"
+    },
+    {
+      "question": "For clients with knee pain, which exercise should be avoided?",
+      "topic": "Special Populations & Injuries",
+      "difficulty": 3,
+      "category": "Joint Health",
+      "tags": ["knee", "pain", "injury"],
+      "options": {
+        "correct": "Deep lunges or exercises with excessive knee flexion",
+        "wrong_1": "Standing leg stretches",
+        "wrong_2": "Simple seated stretches"
+      },
+      "hint": "Look for movements that might place excessive stress on the knee joint.",
+      "explanation": "Deep lunges can strain the knee joint, especially if there is existing knee pain or injury.",
+      "reference": "STOTT Pilates Injury Modifications Manual, p. 92"
+    },
+    {
+      "question": "What is the primary purpose of the 'neutral spine' position?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 2,
+      "category": "Spinal Alignment",
+      "tags": ["neutral spine", "posture", "alignment"],
+      "options": {
+        "correct": "To maintain the natural curves of the spine while ensuring stability",
+        "wrong_1": "To create a flat back and reduce spinal mobility",
+        "wrong_2": "To engage the muscles of the back excessively"
+      },
+      "hint": "It’s about maintaining natural curvature in the spine during exercises.",
+      "explanation": "Neutral spine preserves the spine's natural curves, allowing for optimal alignment and stability during movement.",
+      "reference": "STOTT Pilates Essentials Manual, p. 28"
+    },
+    {
+      "question": "Which of the following describes the primary principle of Pilates?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 1,
+      "category": "Core Engagement",
+      "tags": ["Pilates", "core", "principle"],
+      "options": {
+        "correct": "Control of movement through the engagement of the core",
+        "wrong_1": "Maximal muscle contraction for strength building",
+        "wrong_2": "Exaggerated stretching and lengthening of muscles"
+      },
+      "hint": "Focuses on quality of movement rather than quantity of repetitions.",
+      "explanation": "The key principle of Pilates is core control, ensuring proper muscle activation during all movements.",
+      "reference": "STOTT Pilates Essential Principles, p. 16"
+    },
+    {
+      "question": "What does 'concentric contraction' refer to in Pilates?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 2,
+      "category": "Muscle Contractions",
+      "tags": ["concentric", "muscle", "contraction"],
+      "options": {
+        "correct": "When a muscle shortens as it contracts",
+        "wrong_1": "When a muscle elongates while contracting",
+        "wrong_2": "When a muscle remains at constant length"
+      },
+      "hint": "This happens during the lifting phase of an exercise.",
+      "explanation": "Concentric contraction occurs when the muscle shortens while contracting, typically during the active phase of a movement.",
+      "reference": "STOTT Pilates Manual, p. 53"
+    },
+
+    {
+      "question": "Which muscles are primarily responsible for maintaining a neutral pelvis?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 1,
+      "category": "Pelvic Positioning",
+      "tags": ["pelvis", "alignment", "core"],
+      "options": {
+        "correct": "The abdominals and gluteus muscles",
+        "wrong_1": "The hamstrings and quadriceps",
+        "wrong_2": "The upper back and shoulders"
+      },
+      "hint": "These muscles work together to stabilize the pelvis.",
+      "explanation": "The abdominals and glutes help maintain a neutral pelvic position by supporting the core and preventing excessive tilt.",
+      "reference": "STOTT Pilates Anatomy Guide, p. 45"
+    },
+    {
+      "question": "In which position does the spine assume its natural curve?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 1,
+      "category": "Spinal Alignment",
+      "tags": ["spine", "natural curve", "alignment"],
+      "options": {
+        "correct": "Neutral spine position",
+        "wrong_1": "Flat back position",
+        "wrong_2": "Posterior pelvic tilt"
+      },
+      "hint": "The spine should not be overly arched or flattened.",
+      "explanation": "Neutral spine maintains the natural curvature of the spine and ensures safe alignment during exercise.",
+      "reference": "STOTT Pilates Manual, p. 34"
+    },
+    {
+      "question": "Which exercise emphasizes spinal rotation while seated?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 2,
+      "category": "Spinal Mobility",
+      "tags": ["rotation", "spine", "seated"],
+      "options": {
+        "correct": "The Spine Twist",
+        "wrong_1": "The Saw",
+        "wrong_2": "The Roll Down"
+      },
+      "hint": "It requires controlled twisting of the torso while keeping the pelvis stable.",
+      "explanation": "The Spine Twist targets spinal mobility and the obliques by rotating the torso while maintaining a stable pelvis.",
+      "reference": "STOTT Pilates Anatomy, p. 80"
+    },
+
+    {
+      "question": "What is the primary goal of the 'Teaser' exercise?",
+      "topic": "Matwork Exercises",
+      "difficulty": 3,
+      "category": "Core Strength",
+      "tags": ["core", "balance", "flexibility"],
+      "options": {
+        "correct": "To challenge core strength and balance while articulating the spine",
+        "wrong_1": "To stretch the hamstrings and increase flexibility",
+        "wrong_2": "To strengthen the arms and shoulders"
+      },
+      "hint": "Think of lifting both legs and the torso simultaneously.",
+      "explanation": "The Teaser works on core strength and spinal articulation by balancing the torso and legs in a V-shape.",
+      "reference": "STOTT Pilates Matwork Manual, p. 67"
+    },
+    {
+      "question": "Which exercise primarily targets the lower abdominals while stabilizing the pelvis?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Core Strength",
+      "tags": ["abdominals", "lower body", "stability"],
+      "options": {
+        "correct": "Leg Circles",
+        "wrong_1": "Hundred",
+        "wrong_2": "Roll Up"
+      },
+      "hint": "The legs remain straight while drawing circles in the air.",
+      "explanation": "Leg Circles focus on engaging the lower abdominals while keeping the pelvis stable and controlled.",
+      "reference": "STOTT Pilates Essentials, p. 120"
+    },
+    {
+      "question": "What does the 'Bridge' exercise help to strengthen?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Lower Body Strength",
+      "tags": ["glutes", "hamstrings", "pelvic"],
+      "options": {
+        "correct": "Glutes, hamstrings, and lower back",
+        "wrong_1": "Abdominals and upper back",
+        "wrong_2": "Shoulders and arms"
+      },
+      "hint": "It involves lifting the hips off the floor to create a straight line from shoulders to knees.",
+      "explanation": "The Bridge strengthens the glutes, hamstrings, and lower back while promoting pelvic stability.",
+      "reference": "STOTT Pilates Matwork Guide, p. 33"
+    },
+
+    {
+      "question": "What is the main benefit of the 'Pelvic Lift' on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 1,
+      "category": "Lower Body Strength",
+      "tags": ["glutes", "pelvic", "strength"],
+      "options": {
+        "correct": "It strengthens the glutes, hamstrings, and core muscles",
+        "wrong_1": "It targets the biceps and forearms",
+        "wrong_2": "It increases flexibility in the back"
+      },
+      "hint": "The movement involves lifting the pelvis while lying on the Reformer.",
+      "explanation": "The Pelvic Lift enhances glute and hamstring strength while engaging the core to maintain stability.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 77"
+    },
+    {
+      "question": "Which exercise on the Reformer targets the chest and shoulders?",
+      "topic": "Reformer Exercises",
+      "difficulty": 2,
+      "category": "Upper Body Strength",
+      "tags": ["chest", "shoulders", "strength"],
+      "options": {
+        "correct": "Chest Press",
+        "wrong_1": "Leg Press",
+        "wrong_2": "Knee Stretches"
+      },
+      "hint": "The arms push against resistance while keeping the torso stable.",
+      "explanation": "The Chest Press on the Reformer targets the chest and shoulders, building upper body strength and stability.",
+      "reference": "STOTT Pilates Reformer Guide, p. 51"
+    },
+    {
+      "question": "Which exercise on the Reformer emphasizes the extension of the spine?",
+      "topic": "Reformer Exercises",
+      "difficulty": 3,
+      "category": "Spinal Mobility",
+      "tags": ["spine", "extension", "reformer"],
+      "options": {
+        "correct": "Back Extension",
+        "wrong_1": "Hamstring Stretch",
+        "wrong_2": "Roll Down"
+      },
+      "hint": "The focus is on arching the back while lying on the Reformer.",
+      "explanation": "Back Extension emphasizes spinal mobility and strengthens the muscles along the back.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 67"
+    },
+    {
+      "question": "What does the term 'exhalation' typically refer to in Pilates?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 1,
+      "category": "Breathing Techniques",
+      "tags": ["breathing", "exhalation", "Pilates"],
+      "options": {
+        "correct": "The act of releasing air from the lungs while engaging muscles",
+        "wrong_1": "The deep inhalation of air to prepare for movement",
+        "wrong_2": "The relaxation of the body between exercises"
+      },
+      "hint": "It's important for engaging the core muscles during movement.",
+      "explanation": "Exhalation helps engage the core, facilitating controlled movements in Pilates.",
+      "reference": "STOTT Pilates Breathing Techniques Manual, p. 12"
+    },
+    {
+      "question": "In Pilates, what is the primary purpose of 'breathing into the ribcage'?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 2,
+      "category": "Breathing Techniques",
+      "tags": ["ribcage", "breathing", "core engagement"],
+      "options": {
+        "correct": "To facilitate the engagement of the deep core muscles",
+        "wrong_1": "To expand the chest for maximal lung capacity",
+        "wrong_2": "To relieve tension in the neck and shoulders"
+      },
+      "hint": "Think about the movement of the diaphragm and abdominal muscles.",
+      "explanation": "Breathing into the ribcage helps engage the diaphragm and deepen the activation of the core muscles.",
+      "reference": "STOTT Pilates Essentials Manual, p. 18"
+    },
+    {
+      "question": "What is 'pelvic floor activation' in Pilates?",
+      "topic": "Fundamentals & Principles",
+      "difficulty": 3,
+      "category": "Core Engagement",
+      "tags": ["pelvic floor", "activation", "core"],
+      "options": {
+        "correct": "Engaging the muscles of the pelvic floor to support the spine",
+        "wrong_1": "Contracting the gluteus muscles to strengthen the hips",
+        "wrong_2": "Using the upper abdominals to stabilize the torso"
+      },
+      "hint": "Think about the muscles that help support the bladder and uterus.",
+      "explanation": "Pelvic floor activation involves engaging the deep muscles of the pelvic region to support the lower back and stabilize the pelvis.",
+      "reference": "STOTT Pilates Fundamentals, p. 35"
+    },
+
+    {
+      "question": "What is the primary function of the 'rectus abdominis' in Pilates?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 2,
+      "category": "Core Muscles",
+      "tags": ["rectus abdominis", "core", "muscle function"],
+      "options": {
+        "correct": "To flex the spine and stabilize the pelvis during movement",
+        "wrong_1": "To extend the spine and aid in breathing",
+        "wrong_2": "To rotate the torso and support lateral movements"
+      },
+      "hint": "This muscle is often referred to as the 'six-pack' muscle.",
+      "explanation": "The rectus abdominis is crucial for spinal flexion and supports pelvic stability during various exercises.",
+      "reference": "STOTT Pilates Anatomy Guide, p. 48"
+    },
+    {
+      "question": "Which muscle group is primarily engaged during the 'Roll-Up' exercise?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 2,
+      "category": "Core Engagement",
+      "tags": ["Roll-Up", "abdominals", "flexion"],
+      "options": {
+        "correct": "The abdominals, especially the rectus abdominis",
+        "wrong_1": "The glutes and hamstrings",
+        "wrong_2": "The hip flexors and lower back"
+      },
+      "hint": "This movement involves rolling the spine up off the floor one vertebra at a time.",
+      "explanation": "The Roll-Up targets the abdominal muscles, focusing on spinal articulation and flexibility.",
+      "reference": "STOTT Pilates Essentials, p. 62"
+    },
+    {
+      "question": "What role do the 'hip flexors' play during Pilates exercises?",
+      "topic": "Anatomy & Biomechanics",
+      "difficulty": 2,
+      "category": "Lower Body Strength",
+      "tags": ["hip flexors", "muscle function", "movement"],
+      "options": {
+        "correct": "They help stabilize the pelvis and assist in flexing the hip",
+        "wrong_1": "They extend the hip and strengthen the glutes",
+        "wrong_2": "They rotate the pelvis and stabilize the spine"
+      },
+      "hint": "These muscles are key to leg movements like lifting and bending.",
+      "explanation": "The hip flexors are involved in stabilizing the pelvis and assisting with leg movements like flexion and raising.",
+      "reference": "STOTT Pilates Anatomy, p. 55"
+    },
+
+    {
+      "question": "Which of the following exercises is a primary stretch for the hamstrings?",
+      "topic": "Matwork Exercises",
+      "difficulty": 1,
+      "category": "Lower Body Flexibility",
+      "tags": ["hamstrings", "stretch", "flexibility"],
+      "options": {
+        "correct": "Saw",
+        "wrong_1": "Hundred",
+        "wrong_2": "Roll Down"
+      },
+      "hint": "It involves twisting the torso while reaching for the toes.",
+      "explanation": "The Saw targets the hamstrings through a combination of spinal rotation and forward flexion.",
+      "reference": "STOTT Pilates Matwork, p. 109"
+    },
+    {
+      "question": "What is the focus of the 'Plank' exercise in Pilates?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Core Strength",
+      "tags": ["plank", "core", "stability"],
+      "options": {
+        "correct": "To strengthen the entire core and stabilize the shoulders",
+        "wrong_1": "To increase the flexibility of the back and hamstrings",
+        "wrong_2": "To improve cardiovascular endurance"
+      },
+      "hint": "This exercise involves holding a push-up position with a focus on maintaining a straight line.",
+      "explanation": "The Plank strengthens the core, shoulders, and glutes, focusing on full-body stabilization.",
+      "reference": "STOTT Pilates Core Work, p. 53"
+    },
+    {
+      "question": "Which muscles are primarily engaged during the 'Criss-Cross' exercise?",
+      "topic": "Matwork Exercises",
+      "difficulty": 2,
+      "category": "Core Engagement",
+      "tags": ["obliques", "rotation", "core"],
+      "options": {
+        "correct": "The obliques and abdominals",
+        "wrong_1": "The hip flexors and quadriceps",
+        "wrong_2": "The upper back and shoulders"
+      },
+      "hint": "This exercise involves twisting the torso while keeping the legs in a bicycle motion.",
+      "explanation": "The Criss-Cross targets the obliques, improving rotational strength and flexibility in the spine.",
+      "reference": "STOTT Pilates Matwork Manual, p. 75"
+    },
+    {
+      "question": "What is the purpose of the 'Knee Stretches' on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 2,
+      "category": "Leg Strength & Mobility",
+      "tags": ["knee stretches", "Reformer", "leg strength"],
+      "options": {
+        "correct": "To strengthen the legs and improve pelvic stability",
+        "wrong_1": "To improve spinal mobility and extension",
+        "wrong_2": "To increase the flexibility of the hip flexors"
+      },
+      "hint": "This exercise involves pushing and pulling against the footbar while on the Reformer.",
+      "explanation": "Knee Stretches target the legs and core, with a focus on stabilizing the pelvis and strengthening the quadriceps.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 67"
+    },
+    {
+      "question": "Which exercise on the Reformer primarily works the back extensors?",
+      "topic": "Reformer Exercises",
+      "difficulty": 3,
+      "category": "Spinal Mobility",
+      "tags": ["back", "extension", "Reformer"],
+      "options": {
+        "correct": "Back Extension",
+        "wrong_1": "Leg Circles",
+        "wrong_2": "Knee Stretches"
+      },
+      "hint": "It involves arching the spine while on the Reformer.",
+      "explanation": "Back Extension strengthens the muscles along the back, improving posture and spinal mobility.",
+      "reference": "STOTT Pilates Reformer Guide, p. 94"
+    },
+    {
+      "question": "What is the focus of the 'Footwork' exercise on the Reformer?",
+      "topic": "Reformer Exercises",
+      "difficulty": 2,
+      "category": "Lower Body Strength",
+      "tags": ["footwork", "legs", "strength"],
+      "options": {
+        "correct": "To strengthen the legs, particularly the calves and quadriceps",
+        "wrong_1": "To improve flexibility in the hips and spine",
+        "wrong_2": "To target the glutes and hamstrings"
+      },
+      "hint": "This exercise involves pushing the footbar using your feet.",
+      "explanation": "Footwork focuses on strengthening the legs, particularly the calves and quadriceps, with a strong emphasis on alignment and control.",
+      "reference": "STOTT Pilates Reformer Essentials, p. 22"
+    }
+  ]
+}
+
