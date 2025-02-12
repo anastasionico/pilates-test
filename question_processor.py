@@ -2,26 +2,25 @@ import json
 import random
 
 class Question_processor:
-  def __init__(self):
-    pass
+  #def __init__(self):
+  # pass
 
 
-  def main(self):
+  def main(self, questions: list):
     point = 0
     
-    with open("questions.json") as file:
-      questions = json.load(file)
 
-      for question in questions["questions"]:      
-        print("__________________________")
-        print(f"{question['question']}\n")
-        print(f"\nhint:{question['hint']}\n")   
+    for question in questions:      
+      print("__________________________")
+      print(f"{question['question']}\n")
+      print(f"\nhint:{question['hint']}\n")   
+      print(f"\ndifficulty:{question['difficulty']}\n")   
       
-        correct_answer = self.show_options(question)
-    
-        answer = self.get_answer()
+      correct_answer = self.show_options(question)
+     
+      answer = self.get_answer()
 
-        point = self.process_answer(question = question, answer = answer, point = point, correct_answer = correct_answer)
+      point = self.process_answer(question = question, answer = answer, point = point, correct_answer = correct_answer)
 
 
   def show_options(self, question: dict) -> int:
